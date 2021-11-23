@@ -1,0 +1,101 @@
+<html>
+<head>
+	<title>Registration Form</title>
+</head>
+<body>
+	<table border="1" width="80%" align="center">
+		<tr>
+			<td colspan="2" align="center">Silverwink E-Development and Training Center</td>
+		</tr>
+		<tr>
+			<td>
+				<table border="1" bordercolor="black" width="100%">
+					<tr>
+						<td colspan="2">Registration Date</td>
+					</tr>
+					<tr>
+						<td>form no</td>
+						<td>receipt no</td>
+					</tr>
+					<tr>
+						<td>Sign</td>
+					</tr>
+					
+				</table>
+			</td>
+			<td width="200">
+				<img src="" width="200" />
+			</td>
+		</tr>
+			<tr>
+				<td colspan="2">Name of student-________</td>
+			</tr>
+			<tr>
+				<td colspan="2">Father Name-_________ </td>
+			</tr>
+			<tr>
+				<td colspan="2">Mother name-_______</td>
+			</tr>
+			<tr>
+			<td>
+				<table rules="none" border="1" bordercolor="black">
+				<tr>
+					<td>Date of Birth-____________________</td>
+					<td>Cast-_____________________________</td>
+					<td>Gender-_____________________</td>
+				</tr>
+				<tr>
+					<td colspan="3">PostOffice/Building-____</td>
+				</tr>
+				<tr>
+					<td colspan="3">District and Pincode-___</td>
+				</tr>
+				<tr>
+					<td colspan="3">State</td>
+				</tr>
+				
+				</table>
+			</td>
+			<td>
+				<img src="" width="200" />
+			</td>
+	
+			<tr>
+			<td>
+				<table rules="none" border="1" bordercolor="black">
+					<tr>
+						<td>Qualification-</td>
+						<td>Exam Pass-______________</td>
+						<td>Board-_____________</td>
+						<td>Marks-_____________</td>
+						<td>Year-_______________</td>
+					<tr>
+					<tr>
+						<td colspan="2">Id No.-_____</td>
+						<td boder="0"></td>
+						<td colspan="2">Id Type-______</td>
+					</tr>
+					<tr>
+						<td colspan="2">MObile No.-_____</td>
+						<td colspan="2">Email id-_______</td>
+					</tr>
+					<tr>
+						<td colspan="2">fees Structure & Course Details</td>
+					</tr>
+					<tr>
+						<td>Total Fees</td>
+						<td>Course Name</td>
+					</tr>
+					<tr>
+						<td>__________</td>
+						<td>__________</td>
+						
+					</tr>
+				</table>
+			</td>
+					<td valign="bottom" align="right">Signature of Candidate</td>
+			</tr>
+			
+	</table>
+</body>
+</html>
