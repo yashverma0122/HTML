@@ -1,0 +1,143 @@
+
+<!-- saved from url=(0053)file:///home/yash/Desktop/webcourse/html/invoice.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+	<title>INVOICE</title>
+
+</head>
+<body>
+	<table width="90%" align="center">
+		<tbody><tr>
+		<td>
+		<table width="90%" align="center">
+		<tbody><tr>
+		
+			<th>
+			<img src="./INVOICE_files/brandname.jpg" width="50px"></th>
+			<th align="left"><font size="4">BRAND NAME</font>
+			<br><font size="1">Maecenas dapibus quis ipsum</font>
+			</th>
+			
+			<th width="" align="right">
+			<font size="7" face="Manjari Thin">INVOICE</font>
+			</th>
+		
+		
+	
+			
+		</tr>
+
+		<tr>
+			<td colspan="2">
+			
+				<table>
+					<tbody><tr bgcolor="grey">
+						<td colspan="2">invoice to:</td>
+					</tr>
+					<tr>
+						<td>Ostin Parker<br>66 Avenue street,<br>City name,state,US</td>
+					</tr>
+				</tbody></table>
+			</td>
+				 
+			<td align="right">
+				Invoice # 115662<br>Date 03/12/2022
+				
+			</td>
+		
+		</tr>
+		</tbody></table>
+		</td></tr>
+		<tr>
+			<td colspan="3">
+				<table width="90%" align="center" rules="cols" cellpadding="10">
+					<tbody><tr bgcolor="blue">
+						<td width="50%">ITEM DESCRIPTION</td>
+						<td>QTY</td>
+						<td>PRICE</td>
+						<td>TOTAL </td>
+					</tr>
+					<tr>
+						<td>Lorem ipsum</td>
+						<td>2</td>
+						<td>$20.00</td>
+						<td>$40.00</td>
+					</tr>
+					<tr bgcolor="lightgrey">
+						<td>Maecenas dapibus</td>
+						<td>1</td>
+						<td>$10.00</td>
+						<td>$10.00</td>
+					</tr>
+					<tr>
+						<td>cras ullamcorper quis</td>
+						<td>3</td>
+						<td>$25.00</td>
+						<td>$75.00</td>
+					</tr>
+					<tr bgcolor="lightgrey">
+						<td>vhabjhs hfebufu</td>
+						<td>2</td>
+						<td>$20.00</td>
+						<td>$40.00</td>
+					</tr>
+					<tr>
+						<td>cyasa gcau</td>
+						<td>2</td>
+						<td>$20.00</td>
+						<td>$40.00</td>
+					</tr>
+					
+				</tbody></table>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				<table rules="none" width="90%" cellpadding="10">
+					
+					<tbody><tr>
+						<td></td>
+						<td align="right" width="83%"><b>sub total<br>tax(0%)</b></td>
+						<td align="left"><b>$320.00<br>$0.00</b></td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		<tr>
+			<td colspan="3">
+				<table width="90%" align="center" rules="none" cellpadding="10">
+					<tbody><tr>
+						<td bgcolor="yellow"><b>PAYMENT METHOD</b>
+						</td>
+						<td></td>
+						<td align="right" bgcolor="yellow">GRAND TOTAL</td>
+						<td bgcolor="yellow"></td>
+						<td bgcolor="yellow">$320.00</td>
+						
+					</tr>
+					<tr>
+						<td><b>Paypal</b><br>yvraj0122@gmail.com</td>
+					<td></td>
+					<td rowspan="2" colspan="3" valign="bottom" align="right">signature<br><b>MR. YASH VERMA</b><br>Executive director</td>
+					</tr>
+					<tr>
+						<td><b>Bank account</b><br>21-2535-5236 <br> <hr> <b>Thank you for business with us!</b></td>
+				
+					</tr>
+					<tr>
+						<td bgcolor="lightgrey">TERMS:<font size="1">vdvisduhvshishiusvkjsvhvjlbbbbvbfB vdvisduhvshishiusvkjsvhvjlbbbbvbfB vdvisduhvshishiusvkjsvhvjlbbbbvbfB vdvisduhvshishiusvkjsvhvjlbbbbvbfB</font></td>
+						<td bgcolor="lightgrey"></td>
+						<td colspan="3" align="center" bgcolor="lightgrey">Address line can be here</td>
+						
+					</tr>
+			
+					
+					
+				</tbody></table>
+			</td>
+		</tr>
+		
+	</tbody></table>
+
+
+</body></html>
